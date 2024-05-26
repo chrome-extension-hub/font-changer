@@ -1,3 +1,3 @@
-# GitHub Pages for ChatGPT Search Assistant
+# GitHub Pages for Font Changer
 
-https://sedna-tech.github.io/chatgpt-search-assistant
+https://chrome-extension-hub.github.io/font-changer
